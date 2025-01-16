@@ -1,0 +1,378 @@
+{
+  "source_base_path": "D:/British Course Books/Year 4/Advanced Software Engineering/ase-demo-assignment-DarPanda2058",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppArray.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppArray.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppCall.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppCall.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppCanvas.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppCircle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppCircle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppCommandFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppCommandFactory.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppElse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppElse.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppEnd.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppEnd.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppExceptionHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppExceptionHandler.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppFor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppFor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppGame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppGame.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppIf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppIf.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppInt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppInt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppMethod.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppParser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppParser.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppReal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppReal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppRect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppStoredProgram.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppStoredProgram.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppTriangle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppTriangle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppWhile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppWhile.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.AppWrite.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.AppWrite.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.Form1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.Form1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseApp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseApp.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseAppTest.AppCanvasTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseAppTest.AppCanvasTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseAppTest.ConditionalTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseAppTest.ConditionalTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseAppTest.LoopTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseAppTest.LoopTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseAppTest.MethodTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseAppTest.MethodTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseAppTest.VariableTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseAppTest.VariableTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BooseAppTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BooseAppTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/toc.html"
+        },
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
